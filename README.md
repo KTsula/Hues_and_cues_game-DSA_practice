@@ -26,6 +26,7 @@ It has comprehensive comments and includes time complexity analysis of almost ev
 The game also includes a simple bot which acts with slight knowledge but still somewhat randomly. It's used to allow a single player game. Bot is the white player.
 
 ## Game UI
+<p><img src="https://github.com/KTsula/Hues_and_cues_game-DSA_practice/assets/64359365/9728d474-9861-4dc2-8f31-8f9d4976a57a" /></p>
 
 
 ## Run the game
