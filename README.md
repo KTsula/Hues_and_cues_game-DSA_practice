@@ -7,6 +7,9 @@ Here we have the python version of the hues and cues boardgame which was prepare
 
 The purpose of the game is to receive hints (in this case 2 hints per guess) and try to guess the exact color. The further away your guess is the greater is your score. Player with the smallest score wins.
 
+You can learn more about the game from the presentation here: [ADS Presentation.pdf](https://github.com/KTsula/Hues_and_cues_game-DSA_practice/files/13064393/ADS.Presentation.pdf)
+
+
 ## Intro
 This game uses a mix of <b>algorithms and data structures</b>. 
 
@@ -37,5 +40,4 @@ Run
 and then to start the game run ```python main.py```
 
 Then simply enter the number of players and follow the instructions.
-
 
